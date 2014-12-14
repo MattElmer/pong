@@ -1,0 +1,12 @@
+{
+  "name": "Pong",
+  "version": "0.0.0",
+  "description": "A simple Pong game",
+  "main": "server.js",
+  "repository": "",
+  "author": "Matthias Elmer <matthias.elmer@gmail.com>",
+  "dependencies": {
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14"
+  }
+}
